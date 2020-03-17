@@ -1,0 +1,10 @@
+.nav-menu{
+  background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .5));
+  padding: 30px;
+  transition: all .7s;
+}
+
+.custom-navbar{
+  padding: 5px 30px;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7));
+}
